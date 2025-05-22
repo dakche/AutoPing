@@ -1,6 +1,6 @@
 <h1>AutoPing</h1>
 <h3>The <i>best</i> AI powered tool to maximize the staffing efficiency of small businesses.</h3>
-<h4><i>Featuring the Infinieon PSoC 6 AI Evaluation Kit</i></h4><br>
+<h4><i>Featuring the Infineon PSoC 6 AI Evaluation Kit</i></h4><br>
 <p>
   Picture this: The customer foot traffic in your small restaurant business is wildly unpredictable. <br><br>
   Sometimes, you might be understaffed to the point where employees are collapsing due to exhaustion. <br>
