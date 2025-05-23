@@ -1,7 +1,9 @@
+# Tests discord message send/receive functionality
+
 import discord
 
-# TOKEN = "YOUR TOKEN HERE"
-# ID = "YOUR ID HERE"
+TOKEN = "YOUR TOKEN HERE"
+ID = "YOUR ID HERE"
 
 class Messenger(discord.Client):
     async def on_ready(self):
